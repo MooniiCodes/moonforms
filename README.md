@@ -1,2 +1,2 @@
-# moonforms
+# MoonForms
 A Window manager for Roblox.
